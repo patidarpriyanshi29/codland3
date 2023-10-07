@@ -1,0 +1,160 @@
+body{
+    background-color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.icon
+{
+   display:inline;
+   margin-top: 1px;
+
+
+}
+.img2
+{
+    width:2000px;
+    height:1000px;
+    margin-top: 40px;
+    margin-left: 119px;
+
+}
+#img1
+{
+    filter:opacity(90);
+    width:104px;
+    height: 87px;
+    margin-left: 147px;
+    margin-top: 34px;
+    display: inline-block;
+    /* position: absolute; */
+}
+.name
+{
+    font-size: xx-large;
+    color: orange;
+    text-shadow: 2px 2px 16px yellow;
+    margin-left: 134px;
+   margin-top: -7px ;
+   position: relative;
+   
+    font-family: 'Asap Condensed', sans-serif; 
+}
+
+ul{
+      display: flex;
+      list-style: none;
+      
+}
+.list
+{
+    margin: 19px;
+    font-size: x-large;
+   font-family: 'Asap Condensed', sans-serif;
+}
+header{
+    margin-top: -68px;
+    margin-left: 918px;
+    display: flexbox;
+}
+
+.line
+{
+    border: 2px solid yellow;
+    margin-top: 47px;
+}
+.head
+{
+    margin-top: -832px;
+    margin-left: 222px;
+    font-size: 120px;
+    color: white;
+
+}
+
+.underline
+{
+    margin:55px;
+    font-size: 50px;
+    margin-left: 228px;
+    margin-top: 30px;
+    color: white;
+    text-decoration-line:overline ;
+    text-decoration-color:yellow;
+    text-decoration-thickness: 5px; 
+    position: sticky;
+    
+     
+
+}
+.hori
+{
+position:relative;
+width: 935px;
+color: rgb(232, 232, 10,);
+background-color: yellow;
+margin-left: 220px;
+margin-top: -38px;
+height:5px;
+border: none ;
+
+
+ 
+}
+
+.para2{
+    width:1065px;
+    height: 500px;
+    margin-left: 228px;
+    margin-top: 18px;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+.girl
+{
+    position: relative;
+    margin-top:-738px;
+     margin-left: 1242px;
+     width:23px;
+     height:40px;
+}
+.forms
+{
+    margin-top: 355px;
+    margin-left:190px;
+    width: 1000px;
+    height:100px;
+    color: black;
+    background-color: white;
+}
+input
+{
+    width:440px;
+    height:48px;
+    margin-top: 25px;
+    text-align: center;
+    font-size: x-large;
+    margin-left: 25px;
+
+}
+.btn
+{
+    
+    width:619px;
+    height:103px;
+    margin-top: 110px;
+    margin-left:411px;
+    font-size: x-large;
+    background-color: rgb(64, 64, 172);
+    color: white;
+
+
+}
+
+.inputfills
+{
+    color: black;
+    background-color: white;
+}
